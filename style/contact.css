@@ -1,0 +1,54 @@
+body{
+    background-image: url("../images/back7.jfif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;   
+}
+a:link, a:visited {
+    background-color: green;
+    color: white;
+    padding: 18px;
+    text-decoration: none;
+    display: inline-block;
+}    
+a:hover, a:active {
+    background-color: red;
+    color: white;
+}
+.nav-links{
+	flex:1;
+	text-align:center;
+}
+.nav-links ul li{
+	list-style:none;
+	display:inline-block;
+	padding:8px 12px;
+	position:relative;
+}
+.p1{
+    text-align: center;
+}
+h1{
+    color: black;
+    font-size: 40px;
+}
+h2 {
+    color: darkblue;
+    font-size: 30px;
+    margin-left: 10%;
+}
+.b1{
+    border-style: dashed;
+    border-color: darkred;
+    padding: 5px;
+}
+.table{
+    font-size: 20px;
+    margin-left: 7%;
+}
+.a1{
+    margin-left: 80%;
+}
+.a2{
+    margin-left: 77%;
+}
